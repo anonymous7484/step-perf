@@ -1,0 +1,11 @@
+/target
+/.vscode
+*.csv
+*.txt
+data/
+*.html
+*.npy
+__pycache__/
+*.pb
+*.json
+*.zip
